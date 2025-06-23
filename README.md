@@ -1,7 +1,7 @@
 # Code for Triangulating Bird Locations with Microphone Arrays
 used in research at the University of New Brunswick
 
-#### Disclaimer: This code was produced with the intent of completing my master's research and, only secondarily, with the intent of sharing. So, though it does work, it has not been raised to any professional or publishable standard (yet). It may require further explanation to be usable in your context. Feel free to reach out; I'm happy to discuss bird triangulation ad nauseam :)
+#### Disclaimer: This code was produced with the intent of completing my master's research and, only secondarily, with the intent of sharing. So, though it does work, it has not been refactored and polished (yet). Therefore, it may require further explanation to be usable in your context. Feel free to reach out; I'm happy to discuss bird triangulation ad nauseam :)
 
 For a brief introduction to what it does, check out [my portfolio site](https://lukemclean-portfolio.vercel.app/projects/triangulation)
 
